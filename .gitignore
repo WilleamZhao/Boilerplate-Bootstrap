@@ -6,7 +6,7 @@
 .git
 .svn
 .DS_Store
-video
+## /video
 
 
 ## AUDIO
