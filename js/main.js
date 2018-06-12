@@ -1,0 +1,13 @@
+
+
+
+
+
+// 百度统计 (baidu Analytics)
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?1f1c251bb5a80f9e1915a3067002cda3";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
